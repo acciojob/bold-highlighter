@@ -1,6 +1,7 @@
 # Bold Highlighter
 
 Write a JavaScript program to highlight the bold(done using the `<strong>` tag) words of the following paragraph, on mouse over a certain link.
+
 ![bold-high](https://user-images.githubusercontent.com/78275204/224390107-4c263612-f5a0-48c4-bf44-c6137484c71f.gif)
 
 
